@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Varalakshmi Uppara
+title: Varalakshmi's Portfolio
 email: pandu.chetan27@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Entry-level software developer portfolio showcasing projects, resume, and contact information.
@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  Varalakshmi-12
+LinkedIn :linkedin.com/in/varalakshmi-uppara-a82a54294
 
 # Build settings
 theme: minima
